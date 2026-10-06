@@ -91,3 +91,41 @@ ESP32-Smart-Agriculture-IoT/
 ├── screenshots/
 │
 └── README.md
+```
+## Screenshots
+
+### Circuit Diagram
+
+![Circuit Diagram](screenshots/01-circuit-diagram.png.png)
+
+The complete ESP32 Smart Agriculture IoT circuit developed and simulated in Wokwi.
+
+### System Running
+
+![System Running](screenshots/02-system-running.png.png)
+
+The system operating with real-time sensor readings and irrigation control.
+
+### Moisture Threshold Response
+
+![Moisture Threshold Response](screenshots/03-moisture-threshold-response.png.png)
+
+System response when the soil moisture reaches the configured irrigation threshold.
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/04-dashboard-overview.png.png)
+
+Overview of the IoT dashboard displaying real-time agricultural monitoring data.
+
+### Dashboard Monitoring
+
+![Dashboard Monitoring](screenshots/05-dashboard-monitoring.png.png)
+
+Live monitoring of sensor values and irrigation system status.
+
+### Sensor Data Graphs
+
+![Dashboard Graphs](screenshots/06-dashboard-graphs.png.png)
+
+Graphical visualization of the sensor data collected by the system.95
